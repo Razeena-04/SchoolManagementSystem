@@ -67,7 +67,7 @@ Java JDK 8 or higher
 IDE (IntelliJ / Eclipse / VS Code) or Terminal
 Steps
 # Clone the repository
-git clone https://github.com/YOUR-USERNAME/school-management-system.git
+git clone https://github.com/Razeena-04/SchoolManagementSystem.git
 
 # Navigate to project
 cd school-management-system
