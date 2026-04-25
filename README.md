@@ -79,6 +79,7 @@ javac -d out src/**/*.java src/Main.java
 java -cp out Main
 🖥️ Sample Output
 -----------------School Management System-----------------
+
 1. Add Student
 2. Add Teacher
 3. Find Student By ID
@@ -88,14 +89,13 @@ java -cp out Main
 7. Get All
 8. Get Count
 9. Exit
----------------------------------------------------------
 
 Enter your choice: 1
 Enter ID: 101
 Enter Name: Razeena
 Enter Marks: 95
 
-Successfully added the Student: Arun
+Successfully added the Student: Razeena
 ⚠️ Limitations & Future Improvements
 Uses in-memory storage (data lost after exit)
 Can be extended with database (MySQL / MongoDB)
