@@ -3,15 +3,25 @@
 A console-based Java application to manage Students and Teachers in a school. Built using Core Java following a clean MVC (Model-View-Controller) architecture with a Repository layer for efficient data handling.
 
 📌 Features
+
 ➕ Add Student (ID, Name, Marks)
+
 ➕ Add Teacher (ID, Name, Subject)
+
 🔍 Find Student by ID
+
 🔍 Find Teacher by ID
+
 ❌ Delete Student by ID
+
 ❌ Delete Teacher by ID
+
 📋 View All Students & Teachers
+
 🔢 Get Total Count of Students and Teachers
+
 🚫 Duplicate ID prevention
+
 🏗️ Architecture
 
 This project follows MVC + Repository Pattern:
@@ -98,10 +108,16 @@ Enter Marks: 95
 Successfully added the Student: Razeena
 
 ⚠️ Limitations & Future Improvements
+
 Uses in-memory storage (data lost after exit)
+
 Can be extended with database (MySQL / MongoDB)
+
 UI can be upgraded to web or GUI (JavaFX / React)
 
+
 👩‍💻 Author
+
 Razeena
+
 B.Tech Artificial Intelligence and Data Science
