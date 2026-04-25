@@ -96,11 +96,12 @@ Enter Name: Razeena
 Enter Marks: 95
 
 Successfully added the Student: Razeena
+
 ⚠️ Limitations & Future Improvements
 Uses in-memory storage (data lost after exit)
 Can be extended with database (MySQL / MongoDB)
 UI can be upgraded to web or GUI (JavaFX / React)
-👩‍💻 Author
 
+👩‍💻 Author
 Razeena
 B.Tech Artificial Intelligence and Data Science
